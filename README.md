@@ -107,7 +107,7 @@ Output Waveform
 
 TABULATION:
 
-![AM](https://github.com/user-attachments/assets/f4a130a3-f3c7-4917-b7fa-f9d42adaf101)
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/fbca2d0e-b6c2-4f2b-988b-829895c6ba80" />
 
 
 
